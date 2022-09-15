@@ -1,7 +1,8 @@
 package com.tns.prog1;
 import java.util.Scanner;
 
-public class Scanner1 {	
+public class Scanner1 
+{	
 		public static void main(String[] args)
 		{
 	Scanner sc =new Scanner(System.in);
