@@ -4,21 +4,21 @@ public class Volume {
 
 int volu(int r)
 	{  
-		int vol=r*r*r;  
+		int volu=r*r*r;  
 		
-		return vol;
+		return volu;
 	}
 	int volu(int l, int b, int h)  
 	{  
-		int vol=l*b*h; 
+		int volu=l*b*h; 
 		
-		return vol;
+		return volu;
 	} 
 	double volu(double r) 
 	{  
-		double vol=(4/3)*3.14*r*r*r;  
+		double volu=(4/3)*3.14*r*r*r;  
 		
-		return vol;
+		return volu;
 	}  
 
 public static void main(String args[]) {
