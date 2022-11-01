@@ -11,7 +11,7 @@ public class For_loopex2 {
 		if(number % i == 0)
 		{
 		isPrime = false;
-		}
+ 		}
 		}
 		if(isPrime == true)
 		{
